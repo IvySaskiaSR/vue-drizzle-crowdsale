@@ -1,3 +1,7 @@
+# Repository 
+https://github.com/IvySaskiaSR/vue-drizzle-crowdsale
+--------------------------------------------
+
 # An example Vue Drizzle token crowdsale dApp
 
 > Say "hello" [here](https://github.com/remote-gildor/vue-drizzle-crowdsale/issues/2), if you like this repo/project :)
